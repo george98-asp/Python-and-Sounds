@@ -17,3 +17,11 @@ The input to the function is the wav file name (including the path) and the outp
 point values returned as a tuple.
 
 
+In the third file I wrote a function that given a numpy array x, returns every Mth element in x, starting from the 
+first element.  
+
+The input arguments to this function are a numpy array x and a positive integer M such that M < number of 
+elements in x. The output of this function should be a numpy array.
+
+If you run your code with x = np.arange(10) and M = 2, the function should return the following output: 
+array([0, 2, 4, 6, 8]).
