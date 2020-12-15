@@ -1,0 +1,10 @@
+import sys
+import os
+sys.path.append('../../software/models/')
+import numpy as np
+from utilFunctions import hopSamples
+
+
+def hopSamples(x,M):
+
+    return x[0::M]
