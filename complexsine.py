@@ -1,4 +1,4 @@
-In this file I am showing how to create a complex sinusoid using Python Packages. For execute follow the instructions in the sine.py file.
+In this file I am showing how to create a complex sinusoid using Python Packages. For executing, follow the instructions in the sine.py file.
 
 
 
